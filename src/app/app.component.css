@@ -1,0 +1,66 @@
+html body {
+  margin: -2rem -1rem;
+  padding: 0;
+  font-size: 11px;
+}
+
+/* div {
+  border: 1px solid red;
+} */
+
+.page {
+  width: 100vw;
+  height: 100vh;
+  background: url("http://www.51pptmoban.com/d/file/2018/10/17/4160a7eccbb77d4fb0b1624791bfd090.jpg");
+  background-size: 100%;
+  text-align: center;
+}
+
+.page2 {
+  text-align: center;
+  padding: 10rem 0;
+}
+
+.page3 {
+  text-align: center;
+  margin: -2rem 41.5rem;
+  padding: 0 0 0 17rem;
+  font-size: 1rem;
+  width: 50px;
+}
+
+.page4 {
+  text-align: center;
+  margin: -2rem 41.5rem;
+  padding: 0 0 0 17rem;
+  font-size: 1rem;
+  width: 90px;
+}
+
+/* .page4 {
+  text-align: center;
+  margin: 2rem 0 2rem 41.5rem;
+  font-size: 1rem;
+  width: 50px;
+  padding: 0 0 0 21rem;
+} */
+
+a:hover {
+  color: #39bad6;
+}
+
+li {
+  list-style: none;
+  padding: 1rem 0;
+  color: gray;
+}
+
+a {
+  color: lightsalmon;
+  text-decoration: none;
+}
+
+.font {
+  font-size: 1.5rem;
+  color: white;
+}
